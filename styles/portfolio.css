@@ -26,6 +26,12 @@ nav {
 
 
 /* shared style  */
+.secondary-bg {
+   background-color: #fff8f3;
+}
+
+
+
 .text-primary {
    color: #fd6E0A;
 }
@@ -44,9 +50,16 @@ nav {
    border: none;
 }
 
+.section-title {
+   font-size: 50px;
+   font-weight: bold;
+   color: #181818;
+}
 
-
-
+.description {
+   font-size: 18px;
+   color: #757575
+}
 nav ul {
    display: flex;
    align-items: center;
@@ -59,7 +72,7 @@ nav ul li {
 
 nav ul a {
    text-decoration: none;
-   font size: ;
+   font-size: 400px;   
 }
 
 
@@ -111,3 +124,52 @@ nav ul a {
    font-weight: bold;
    margin: 20px 0;
 }
+
+
+/* main style  */
+.main {
+   max-width: 1140px;
+   margin: 0 auto;
+}
+
+
+/* about style */
+.about {
+   border-radius: 10px;
+   padding: 130px 150px;
+   display: flex;
+   justify-content: space-between;
+   margin: 0 35px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
