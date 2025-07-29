@@ -162,6 +162,14 @@ main section {
 }
  .skills-descripiton {
   padding: 30px;
+ }
+
+
+ .skills{
+   padding: 30px;
+   border-radius: 5px; 
+   box-shadow: 0px 6px 50px rgba(198, 182, 182, 0.1);
+ }
 
 
 
